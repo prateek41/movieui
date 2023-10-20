@@ -1,10 +1,8 @@
-import logo from './logo.svg';
 import './App.css';
 
-function App() {
+export default function App() {
   return (
-    
+    <div><h1>Hiii</h1></div>
   );
 }
 
-export default App;
